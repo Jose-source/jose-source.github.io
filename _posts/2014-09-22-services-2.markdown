@@ -1,0 +1,8 @@
+---
+layout: default
+img: Bookkeeping.jpg
+category: Services
+title: Bookkeeping<br>For You
+description: |
+---
+Straight-forward automated bookkeeping, all done for you. Our team of professionals take care of everything and delivers updated financial statements to you every month.
