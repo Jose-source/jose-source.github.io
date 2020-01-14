@@ -1,8 +1,0 @@
----
-layout: default
-img: Startup.jpg
-category: Services
-title: New Business Startups
-description: |
----
-We identify the best tax setup for your business, we file your startup with your state, register for your EIN and complete all the steps needed to create your LLC & S-corp election.

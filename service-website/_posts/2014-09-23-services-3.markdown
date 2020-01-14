@@ -1,8 +1,0 @@
----
-layout: default
-img: Tax.jpg
-category: Services
-title: Business Tax Returns
-description: |
----
-Now that you have Professional Bookkeeping, your tax returns are quickly and efficiently all done for you - no pain and no surprises.
