@@ -1,8 +1,8 @@
 ---
 layout: default
-img: Tax.jpg
+img: phones.png
 category: Services
-title: Business Tax Returns
+title: Google Web Fonts and<br>Font Awesome Icons
 description: |
 ---
-Now that you have Professional Bookkeeping, your tax returns are quickly and efficiently all done for you - no pain and no surprises.
+This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).

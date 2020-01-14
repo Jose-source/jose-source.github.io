@@ -1,8 +1,8 @@
 ---
 layout: default
-img: Startup.jpg
+img: ipad.png
 category: Services
-title: New Business Startups
+title: Death to the Stock Photo:<br>Special Thanks
 description: |
 ---
-We identify the best tax setup for your business, we file your startup with your state, register for your EIN and complete all the steps needed to create your LLC & S-corp election.
+  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
